@@ -1,0 +1,33 @@
+body {
+	font-family: 'Open Sans', sans-serif;
+	font-weight: 300;
+	margin:0;
+	padding:0;
+	background-color:#F0F0F0;
+}
+div {
+	width:100px;
+	height:100px;
+	margin:20px;
+	display:block;
+	position:relative;
+}
+button {
+	margin:10px;
+}
+div#translation {
+	background-color: red;
+}
+div#looping {
+	background-color: blue;
+}
+div#transform {
+	background-color: green;
+}
+div#fadein {
+	background-color: yellow;
+	opacity:0;
+}
+div#all {
+	background-color: pink;
+}
